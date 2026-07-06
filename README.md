@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0119-pascals-triangle-ii) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
