@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0410-split-array-largest-sum) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
