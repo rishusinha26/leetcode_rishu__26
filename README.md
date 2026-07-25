@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
