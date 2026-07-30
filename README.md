@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0151-reverse-words-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,8 +95,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
