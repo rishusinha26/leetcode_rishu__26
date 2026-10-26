@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0013-roman-to-integer) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0992-subarrays-with-k-different-integers) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0119-pascals-triangle-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0410-split-array-largest-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0992-subarrays-with-k-different-integers) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/rishusinha26/leetcode_rishu__26/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
